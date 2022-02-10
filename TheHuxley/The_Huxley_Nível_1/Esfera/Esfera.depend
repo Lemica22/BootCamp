@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497587236 source:c:\users\reis\desktop\esfera\main.c
+	<stdio.h>
+	<stdlib.h>
+

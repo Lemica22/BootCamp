@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499134720 source:c:\users\reis\desktop\posição do caracter na string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

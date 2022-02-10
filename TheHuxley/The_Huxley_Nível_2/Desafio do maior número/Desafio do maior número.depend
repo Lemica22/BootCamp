@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498282236 source:c:\users\reis\desktop\desafio do maior número\main.c
+	<stdio.h>
+	<stdlib.h>
+

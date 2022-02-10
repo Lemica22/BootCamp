@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497812204 source:c:\users\reis\desktop\soma de fatoriais\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498007477 source:c:\users\reis\desktop\equação do segundo grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

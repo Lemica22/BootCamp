@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497711216 source:c:\users\reis\desktop\eleitor\main.c
+	<stdio.h>
+	<stdlib.h>
+

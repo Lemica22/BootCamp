@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499131741 source:c:\users\reis\desktop\perímetro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497487813 source:c:\users\reis\desktop\as duas strings são iguais\main.c
+	<stdio.h>
+	<string.h>
+

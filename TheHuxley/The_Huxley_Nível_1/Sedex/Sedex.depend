@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498966219 source:c:\users\reis\desktop\sedex\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498497761 source:c:\users\reis\desktop\inverter uma string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
