@@ -10,3 +10,6 @@ Plataforma para desenvolvimento de habilidade de programação, há problemas si
 
 ## Projeto Euller
 Projeto focado em matemática computacional que serve para, além de se divertir, desenvolver suas habilidades analíticas. ^ ^)
+
+##  Projeto da Livraria
+Pasta criada para desenvolvimento de uma livraria usando Python, sql e JavaScript! O intuito é que usemos funções de log e muito mais atividades.  
