@@ -25,7 +25,7 @@ CREATE TABLE cadastro_funcionario(
 );
 """)
 
-# terminaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar
+# Mudar tipos de arquivos. 
 cursor.execute("""
 CREATE TABLE cadastro_cliente(
         codigo_cliente INTERGER NOT NULL PRIMARY KEY AUTOINCREMENT,
